@@ -600,8 +600,8 @@ p {
         padding-left: 60px;
     }
     #about .about .col-left .about-img::after {
-        left: -45px;
-        top: 34px;
+        left: -3px;
+        top: -5px;
         height: 98%;
         width: 98%;
         border: 10px solid rgb(82, 238, 243);
